@@ -1,0 +1,9 @@
+[[libharu]]
+arch = "x86_64"
+git-tree-sha1 = "246660f2659e2638dba12af3dbed2d847c0bb314"
+libc = "glibc"
+os = "linux"
+
+    [[libharu.download]]
+    sha256 = "73a79cd83f8a174d5f79df77613e56555c52c4f72fac9da0b3fec03bff7b5f1b"
+    url = "https://github.com/yoxem/libharu_jll.jl/releases/download/libharu-v2.4.4+0/libharu.v2.4.4.x86_64-linux-gnu.tar.gz"
